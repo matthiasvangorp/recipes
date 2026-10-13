@@ -1,0 +1,117 @@
+{
+  "title": "Seared Sirloin with Roast Squash, Mushrooms & Caper Salsa Verde",
+  "description": "Pan-seared sirloin over thyme-roasted butternut and chestnut mushrooms, finished with a garlic-free parsley-caper salsa verde.",
+  "planned": "2026-10-13",
+  "cooked": null,
+  "totalMinutes": 50,
+  "tags": [
+    "beef",
+    "oven"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1290,
+      "protein": 95,
+      "carbs": 105,
+      "fat": 54
+    },
+    "partner": {
+      "kcal": 710,
+      "protein": 60,
+      "carbs": 39,
+      "fat": 35
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Beef sirloin or rump steak, ~3 cm thick (one ~360 g + one ~240 g)",
+      "amount": "600 g"
+    },
+    {
+      "name": "Butternut squash, peeled, 2.5 cm cubes",
+      "amount": "900 g"
+    },
+    {
+      "name": "Chestnut mushrooms, quartered",
+      "amount": "400 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Flat-leaf parsley",
+      "amount": "30 g"
+    },
+    {
+      "name": "Small shallot",
+      "amount": "1"
+    },
+    {
+      "name": "Capers, drained",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sourdough bread (Matthias only)",
+      "amount": "60 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Temper the steaks",
+      "minutes": 30,
+      "text": "Take the steaks out of the fridge, pat dry and season all over with 1 tsp salt. Leave at room temperature for 30 min while the squash roasts."
+    },
+    {
+      "title": "Roast the squash",
+      "minutes": 15,
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the squash with 1 tbsp olive oil, the thyme, chilli flakes and the remaining ½ tsp salt. Roast 15 min."
+    },
+    {
+      "title": "Add the mushrooms and roast",
+      "minutes": 20,
+      "text": "Add the mushrooms to the tray, toss with the squash and its oil, and roast another 20 min until the squash is caramelised at the edges."
+    },
+    {
+      "title": "Make the salsa verde",
+      "minutes": 5,
+      "text": "Finely chop the parsley, shallot and capers. Stir in 1.5 tbsp olive oil, the vinegar, Dijon, 1 tbsp water and black pepper."
+    },
+    {
+      "title": "Sear the steaks",
+      "minutes": 8,
+      "text": "Heat the remaining ½ tbsp olive oil in a heavy pan until smoking. Sear the steaks 4 min per side for medium (58–60 °C core); add 1 min per side if you prefer them more done."
+    },
+    {
+      "title": "Rest the meat",
+      "minutes": 5,
+      "text": "Rest the steaks on a board for 5 min. Toast the sourdough meanwhile."
+    },
+    {
+      "title": "Slice and split",
+      "minutes": null,
+      "text": "Slice against the grain. Matthias: ≈360 g steak, about two-thirds of the squash and 60% of the mushrooms, plus the toast. Partner: ≈240 g steak and the rest of the veg. Spoon salsa verde over both, slightly more for Matthias."
+    }
+  ],
+  "notes": "Peel and cube the whole butternut tonight: roast 900 g here and refrigerate the rest (~1.1 kg) for the soup. Swap the shallot for 2 spring onions if it's too sharp."
+}

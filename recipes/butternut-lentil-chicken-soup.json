@@ -1,0 +1,119 @@
+{
+  "title": "Butternut, Red Lentil & Ginger Soup with Shredded Chicken",
+  "description": "A thick, warming squash and lentil soup with cumin, smoked paprika and ginger, with chicken breast poached in the pot and shredded back in.",
+  "planned": "2026-10-13",
+  "cooked": null,
+  "totalMinutes": 45,
+  "tags": [
+    "chicken",
+    "soup",
+    "hob",
+    "leftovers"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1370,
+      "protein": 95,
+      "carbs": 182,
+      "fat": 30
+    },
+    "partner": {
+      "kcal": 700,
+      "protein": 56,
+      "carbs": 83,
+      "fat": 17
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Leftover butternut squash, 3 cm cubes",
+      "amount": "1100 g"
+    },
+    {
+      "name": "Skinless chicken breast fillets",
+      "amount": "400 g"
+    },
+    {
+      "name": "Red lentils, rinsed",
+      "amount": "150 g"
+    },
+    {
+      "name": "Large onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh ginger, finely grated",
+      "amount": "15 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1.5 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chicken or vegetable stock",
+      "amount": "900 ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "25 g"
+    },
+    {
+      "name": "Sourdough bread (Matthias only)",
+      "amount": "60 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the onion",
+      "minutes": 6,
+      "text": "Heat the olive oil in a large pot over medium heat. Add the onion with a pinch of salt and cook 6 min until soft and translucent."
+    },
+    {
+      "title": "Toast the spices",
+      "minutes": 1,
+      "text": "Stir in the ginger, cumin and smoked paprika and cook for 1 min until fragrant."
+    },
+    {
+      "title": "Simmer squash and lentils",
+      "minutes": 10,
+      "text": "Add the squash, lentils, stock and remaining salt. Bring to the boil, then lower to a steady simmer for 10 min, stirring now and then so the lentils don't catch."
+    },
+    {
+      "title": "Poach the chicken in the soup",
+      "minutes": 18,
+      "text": "Submerge the chicken breasts whole in the simmering soup, cover and cook 18 min, until the chicken reaches 74 °C in the thickest part and the squash is completely soft."
+    },
+    {
+      "title": "Toast the seeds",
+      "minutes": 4,
+      "text": "While the chicken poaches, dry-toast the pumpkin seeds in a small pan over medium heat for 3–4 min until they puff and pop. Toast the sourdough too."
+    },
+    {
+      "title": "Shred and blend",
+      "minutes": 5,
+      "text": "Lift out the chicken and shred it with two forks. Blend the soup smooth with a stick blender, adding a splash of water if it's too thick. Stir in the lemon juice and shredded chicken, and taste for salt."
+    },
+    {
+      "title": "Serve and split",
+      "minutes": null,
+      "text": "Matthias: about two-thirds of the pot (two generous bowls), 15 g of the pumpkin seeds and the toast. Partner: the remaining third with 10 g seeds."
+    }
+  ],
+  "notes": "No protein bridge needed: lentils and chicken cover it. Keeps 3 days in the fridge."
+}

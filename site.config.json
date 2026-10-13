@@ -1,0 +1,7 @@
+{
+  "siteTitle": "Dinners",
+  "people": [
+    { "key": "matthias", "label": "Matthias" },
+    { "key": "partner", "label": "Partner" }
+  ]
+}

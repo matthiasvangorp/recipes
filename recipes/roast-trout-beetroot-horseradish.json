@@ -1,0 +1,96 @@
+{
+  "title": "Roast Trout with Beetroot, Caraway Potatoes & Horseradish Yogurt",
+  "description": "One-tray dinner: caraway-roasted beetroot and potatoes, trout baked on top for the last 10 minutes, with a sharp horseradish-dill yogurt.",
+  "planned": "2026-10-13",
+  "cooked": null,
+  "totalMinutes": 60,
+  "tags": [
+    "fish",
+    "oven",
+    "one-tray"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1260,
+      "protein": 92,
+      "carbs": 97,
+      "fat": 57
+    },
+    "partner": {
+      "kcal": 650,
+      "protein": 57,
+      "carbs": 42,
+      "fat": 28
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Skin-on trout fillets",
+      "amount": "600 g"
+    },
+    {
+      "name": "Waxy potatoes, cut into 3 cm chunks",
+      "amount": "550 g"
+    },
+    {
+      "name": "Raw beetroot, peeled, cut into 2 cm wedges",
+      "amount": "400 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Greek yogurt, 10% fat",
+      "amount": "180 g"
+    },
+    {
+      "name": "Jarred grated horseradish (torma)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep the tray",
+      "minutes": 10,
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the potatoes and beetroot with 1.5 tbsp olive oil, the caraway and 1 tsp salt. Spread on a large lined tray, keeping the beetroot to one side so it doesn't stain the potatoes."
+    },
+    {
+      "title": "Roast the vegetables",
+      "minutes": 40,
+      "text": "Roast for 40 min, turning everything once at the 20-min mark, until the potatoes are golden and a knife slides easily into the beetroot."
+    },
+    {
+      "title": "Make the horseradish yogurt",
+      "minutes": 5,
+      "text": "While the veg roast, mix the yogurt with the horseradish, the zest of half the lemon, 1 tbsp lemon juice, half the dill (chopped) and a pinch of salt. Chill until serving."
+    },
+    {
+      "title": "Bake the trout",
+      "minutes": 10,
+      "text": "Pat the trout dry, brush with the remaining ½ tbsp olive oil and season with the remaining ½ tsp salt and pepper. Nestle the fillets skin-side down between the vegetables and bake 8–10 min until the flesh flakes and is opaque all the way through."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: ≈360 g trout, about three-quarters of the potatoes and 60% of the beetroot, plus ≈120 g of the horseradish yogurt. Partner: ≈240 g trout, the remaining veg and ≈50 g yogurt. Finish with the rest of the dill and lemon wedges."
+    }
+  ],
+  "notes": "Matthias's bigger share of horseradish yogurt is the protein bridge. If trout is out of stock, hake fillets bake in the same time (add 50 g more potatoes to Matthias's plate)."
+}
