@@ -1,0 +1,117 @@
+{
+  "title": "Miso-Glazed Salmon with Sesame Pak Choi, Edamame & Jasmine Rice",
+  "description": "Salmon grilled under a ginger-miso glaze until caramelised, with quick sesame pak choi and jasmine rice. Garlic-free, about 30 minutes.",
+  "planned": "2026-10-19",
+  "cooked": null,
+  "totalMinutes": 30,
+  "tags": [
+    "fish",
+    "oven",
+    "quick"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1420,
+      "protein": 98,
+      "carbs": 110,
+      "fat": 62
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 40,
+      "carbs": 43,
+      "fat": 28
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Skin-on salmon fillets",
+      "amount": "520 g"
+    },
+    {
+      "name": "Jasmine rice, uncooked",
+      "amount": "135 g"
+    },
+    {
+      "name": "Water (for the rice)",
+      "amount": "200 ml"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger, finely grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pak choi, halved lengthways",
+      "amount": "400 g"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Frozen shelled edamame (Matthias only)",
+      "amount": "100 g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spring onions, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the rice",
+      "minutes": 12,
+      "text": "Rinse the rice until the water runs clear. Put in a small pan with 200 ml water and a pinch of salt, bring to the boil, cover and cook on the lowest heat for 12 min. Take off the heat and rest, still covered, for 10 min."
+    },
+    {
+      "title": "Make the glaze",
+      "minutes": 5,
+      "text": "Heat the oven grill (top heat) to its highest setting, about 230 °C. Whisk the miso, honey, soy sauce, rice vinegar and ginger into a thick paste."
+    },
+    {
+      "title": "Grill the salmon",
+      "minutes": 11,
+      "text": "Pat the salmon dry and lay skin-side down on a lined tray. Season lightly with salt and spread the glaze over the tops. Grill about 15 cm below the element for 10–12 min, until the glaze is caramelised and the salmon flakes and is opaque all the way through. If the glaze darkens too fast, cover loosely with foil for the last few minutes."
+    },
+    {
+      "title": "Boil the edamame",
+      "minutes": 4,
+      "text": "While the salmon grills, boil the edamame in salted water for 4 min, then drain."
+    },
+    {
+      "title": "Stir-fry the pak choi",
+      "minutes": 4,
+      "text": "Heat the sesame oil in a wok or large frying pan over high heat. Add the pak choi cut-side down and fry 2 min, then add 1 tbsp water, cover and steam 2 min until the stems are just tender. Season with a pinch of salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: ≈360 g salmon, three-quarters of the rice, 60% of the pak choi and all the edamame. Partner: ≈160 g salmon, the remaining rice and pak choi. Scatter the sesame seeds and spring onions over both plates."
+    }
+  ],
+  "notes": "Kifli swaps: if pak choi is out, use 300 g tenderstem broccoli (stir-fry 5 min). If miso is out, use 1.5 tbsp soy sauce + 1 tsp tahini in the glaze."
+}

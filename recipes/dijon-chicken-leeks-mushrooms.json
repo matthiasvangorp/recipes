@@ -1,0 +1,113 @@
+{
+  "title": "Dijon Chicken with Leeks, Mushrooms & Rosemary Roast Potatoes",
+  "description": "Seared chicken breast in a white wine, Dijon and crème fraîche sauce with soft leeks and browned mushrooms, served with crisp rosemary potatoes.",
+  "planned": "2026-10-19",
+  "cooked": null,
+  "totalMinutes": 50,
+  "tags": [
+    "chicken",
+    "oven",
+    "hob"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1440,
+      "protein": 113,
+      "carbs": 120,
+      "fat": 55
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 54,
+      "carbs": 40,
+      "fat": 22
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Chicken breast fillets",
+      "amount": "600 g"
+    },
+    {
+      "name": "Waxy potatoes, 3 cm chunks",
+      "amount": "650 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "Butter",
+      "amount": "10 g"
+    },
+    {
+      "name": "Chestnut mushrooms, sliced",
+      "amount": "250 g"
+    },
+    {
+      "name": "Leeks, trimmed, halved and sliced",
+      "amount": "250 g"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "3"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Crème fraîche (30%)",
+      "amount": "100 g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1.5 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the potatoes",
+      "minutes": 40,
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the potatoes with 1 tbsp olive oil, the rosemary and 1 tsp salt on a lined tray. Roast 40 min, turning once at the 20-min mark, until golden and crisp."
+    },
+    {
+      "title": "Prep the chicken",
+      "minutes": 5,
+      "text": "Slice each chicken breast horizontally into two thinner cutlets (about 1.5 cm thick) so they cook evenly. Pat dry and season with ½ tsp salt and pepper."
+    },
+    {
+      "title": "Sear the chicken",
+      "minutes": 9,
+      "text": "With about 20 min left on the potatoes, heat the remaining 1 tbsp olive oil in a large frying pan over medium-high heat. Sear the chicken 4–5 min per side until golden and cooked through (no pink in the middle). Move to a plate."
+    },
+    {
+      "title": "Cook the mushrooms and leeks",
+      "minutes": 8,
+      "text": "Lower to medium, add the butter to the same pan, then the mushrooms. Fry 4 min until browned. Add the leeks and thyme and cook another 4 min until the leeks are soft."
+    },
+    {
+      "title": "Make the sauce",
+      "minutes": 7,
+      "text": "Pour in the wine and let it bubble 2 min, scraping up the browned bits. Add the stock, crème fraîche and Dijon, stir smooth and simmer 3 min until lightly thickened. Return the chicken and any juices and simmer 2 min to heat through. Remove the thyme stalks."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: ≈400 g of the chicken (raw weight, about two-thirds of the cutlets), 70% of the sauce and ≈500 g of the potatoes. Partner: the remaining chicken, sauce and potatoes."
+    }
+  ],
+  "notes": "Kifli swaps: if crème fraîche is out, use 120 ml 20% cooking cream (főzőtejszín). Swap the wine for extra stock if you prefer."
+}

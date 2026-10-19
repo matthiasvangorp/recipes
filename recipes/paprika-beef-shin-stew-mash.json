@@ -1,0 +1,130 @@
+{
+  "title": "Paprika Beef Shin Stew with Carrots, Peppers & Buttery Mash",
+  "description": "A pörkölt-style stew: beef shin braised for 2 hours with onions, sweet paprika, red wine, carrots and peppers, served over buttery mash. Garlic-free.",
+  "planned": "2026-10-19",
+  "cooked": null,
+  "totalMinutes": 150,
+  "tags": [
+    "beef",
+    "hob",
+    "slow"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1440,
+      "protein": 112,
+      "carbs": 111,
+      "fat": 55
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 46,
+      "carbs": 47,
+      "fat": 21
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Beef shin (marhalábszár), 4 cm chunks",
+      "amount": "650 g"
+    },
+    {
+      "name": "Sunflower or olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onions, diced",
+      "amount": "2"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dry red wine",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Dried marjoram",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Carrots, 1.5 cm rounds",
+      "amount": "200 g"
+    },
+    {
+      "name": "Red peppers, cut into strips",
+      "amount": "2"
+    },
+    {
+      "name": "Floury potatoes, peeled and quartered",
+      "amount": "550 g"
+    },
+    {
+      "name": "Butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Whole milk, warmed",
+      "amount": "80 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the beef",
+      "minutes": 10,
+      "text": "Pat the beef dry and season with 1 tsp salt. Heat the oil in a heavy lidded pot over high heat and brown the beef in two batches, 4–5 min per batch. Move to a plate."
+    },
+    {
+      "title": "Soften the onions",
+      "minutes": 10,
+      "text": "Lower to medium, add the onions to the pot and cook 10 min, stirring and scraping the base, until soft and golden."
+    },
+    {
+      "title": "Add paprika and tomato",
+      "minutes": 2,
+      "text": "Take the pot off the heat (paprika burns easily), stir in both paprikas and the tomato paste, then return to medium heat for 1 min."
+    },
+    {
+      "title": "First simmer",
+      "minutes": 60,
+      "text": "Return the beef and its juices. Add the wine, stock, marjoram and bay leaf. Bring to the boil, then cover and simmer on the lowest heat for 60 min."
+    },
+    {
+      "title": "Add the vegetables and simmer",
+      "minutes": 60,
+      "text": "Stir in the carrots and peppers. Cover and simmer another 60 min, until the beef falls apart when pressed with a fork. If it's still firm, give it 15–30 min more. Uncover for the last 10 min to thicken the sauce, then remove the bay leaf and season to taste."
+    },
+    {
+      "title": "Make the mash",
+      "minutes": 20,
+      "text": "With about 30 min left on the stew, cover the potatoes with cold salted water, bring to the boil and cook 18–20 min until completely tender. Drain well, then mash with the butter, warm milk and a pinch of salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: two-thirds of the stew (about 70% of the beef) and three-quarters of the mash. Partner: the remaining stew and mash."
+    }
+  ],
+  "notes": "Good for the rainy day; reheats even better the next day. Kifli swap: if shin is out, use beef chuck (marhalapocka), same timing, about +60 kcal for Matthias. Caraway (½ tsp, crushed) with the paprika is a classic addition."
+}
