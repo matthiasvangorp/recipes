@@ -1,0 +1,150 @@
+{
+  "title": "Turkey, Black Bean & Sweet Potato Chili with Lime Yogurt, Cheddar & Avocado",
+  "description": "A smoky one-pot chili of turkey mince, black beans, peppers and diced sweet potato in tomato and ancho-style spices, topped with lime yogurt, grated cheddar and avocado. Garlic-free.",
+  "planned": "2026-10-26",
+  "cooked": null,
+  "totalMinutes": 55,
+  "tags": [
+    "turkey",
+    "hob",
+    "one-pot"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1530,
+      "protein": 116,
+      "carbs": 126,
+      "fat": 64
+    },
+    "partner": {
+      "kcal": 600,
+      "protein": 44,
+      "carbs": 52,
+      "fat": 26
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Turkey mince (darált pulykahús)",
+      "amount": "500 g"
+    },
+    {
+      "name": "Olive or sunflower oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onions, diced",
+      "amount": "2 (200 g)"
+    },
+    {
+      "name": "Red peppers, diced",
+      "amount": "2 (250 g)"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli flakes or cayenne (to taste)",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped tomatoes, tinned",
+      "amount": "400 g"
+    },
+    {
+      "name": "Chicken or vegetable stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Sweet potato, peeled, 1.5 cm cubes",
+      "amount": "300 g"
+    },
+    {
+      "name": "Black beans, tinned, drained and rinsed",
+      "amount": "1 tin (400 g / 240 g drained)"
+    },
+    {
+      "name": "Lime, zest and juice",
+      "amount": "1"
+    },
+    {
+      "name": "Greek yogurt, 2%",
+      "amount": "150 g"
+    },
+    {
+      "name": "Mature cheddar, grated",
+      "amount": "40 g"
+    },
+    {
+      "name": "Ripe avocado, diced",
+      "amount": "1 (about 120 g flesh)"
+    },
+    {
+      "name": "Fresh coriander or spring onion, to serve",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the turkey 6–8 min",
+      "minutes": 8,
+      "text": "Heat the oil in a large heavy pot over high heat. Add the turkey and 1 tsp salt and fry 6–8 min, breaking it up, until the liquid has evaporated and it starts to brown."
+    },
+    {
+      "title": "Add onion and pepper, 6 min",
+      "minutes": 6,
+      "text": "Lower to medium, add the onions and peppers and cook 6 min until softened."
+    },
+    {
+      "title": "Toast the spices 1 min",
+      "minutes": 1,
+      "text": "Stir in the cumin, smoked paprika, coriander, oregano, chilli, cinnamon and tomato paste; cook 1 min, stirring, so the spices don't burn."
+    },
+    {
+      "title": "Simmer with sweet potato 20 min",
+      "minutes": 20,
+      "text": "Add the tomatoes, stock and sweet potato. Bring to the boil, then cover and simmer on low 20 min."
+    },
+    {
+      "title": "Add the beans and reduce 10 min",
+      "minutes": 10,
+      "text": "Stir in the black beans and simmer uncovered 10 min, until the sweet potato is tender and the chili is thick. Finish with half the lime juice and season to taste."
+    },
+    {
+      "title": "Make the lime yogurt",
+      "minutes": 2,
+      "text": "Mix the yogurt with the lime zest, the remaining lime juice and a pinch of salt. Toss the avocado with a squeeze of lime so it doesn't brown."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: about 70% of the chili, 100 g of the lime yogurt, 32 g cheddar and two-thirds of the avocado. Partner: the rest of the chili, 50 g yogurt, 8 g cheddar and one-third of the avocado. Top with coriander or spring onion."
+    }
+  ],
+  "notes": "Makes a great next-day lunch if there's any left. Kifli swap: if turkey mince is out, use chicken mince (darált csirkemell) for slightly fewer calories, or lean beef mince for about +120 kcal for Matthias. Kidney beans can replace black beans."
+}

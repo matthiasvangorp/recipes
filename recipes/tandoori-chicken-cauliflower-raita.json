@@ -1,0 +1,136 @@
+{
+  "title": "Tandoori Chicken Thighs with Spiced Roast Cauliflower, Basmati & Mint Raita",
+  "description": "Yogurt-and-ginger marinated chicken thighs roasted on a tray with cumin cauliflower and red onion, served with basmati and a cooling cucumber-mint raita. Garlic-free.",
+  "planned": "2026-10-26",
+  "cooked": null,
+  "totalMinutes": 60,
+  "tags": [
+    "chicken",
+    "oven"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1480,
+      "protein": 133,
+      "carbs": 137,
+      "fat": 45
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 49,
+      "carbs": 58,
+      "fat": 19
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Skinless boneless chicken thigh fillets (csirkecomb filé)",
+      "amount": "650 g"
+    },
+    {
+      "name": "Greek yogurt, 2% (marinade)",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh ginger, finely grated",
+      "amount": "15 g"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli flakes (optional)",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Cauliflower, cut into florets",
+      "amount": "700 g (1 medium head)"
+    },
+    {
+      "name": "Red onion, cut into wedges",
+      "amount": "1 (150 g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Basmati rice, uncooked",
+      "amount": "160 g"
+    },
+    {
+      "name": "Water (for rice)",
+      "amount": "240 ml"
+    },
+    {
+      "name": "Greek yogurt, 2% (raita)",
+      "amount": "150 g"
+    },
+    {
+      "name": "Cucumber, grated and squeezed dry",
+      "amount": "150 g"
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "Fresh coriander, to serve (optional)",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "minutes": 10,
+      "text": "Mix the 100 g yogurt, ginger, garam masala, sweet paprika, 1 tsp of the cumin, the turmeric, chilli flakes, half the lemon juice and 1 tsp salt. Coat the chicken and leave 10 min at room temperature (or up to 8 h in the fridge). Heat the oven to 220°C fan."
+    },
+    {
+      "title": "Roast the cauliflower 10 min",
+      "minutes": 10,
+      "text": "Toss the cauliflower and onion with the olive oil, the remaining 1 tsp cumin and ½ tsp salt on a large lined tray. Roast 10 min."
+    },
+    {
+      "title": "Add the chicken and roast 25 min",
+      "minutes": 25,
+      "text": "Push the vegetables to the sides, lay the chicken thighs in the middle, shaking off excess marinade. Roast 25 min, then switch to the grill for the last 3–4 min to char the edges. The chicken should reach 75°C in the thickest part."
+    },
+    {
+      "title": "Cook the rice 12 min + 5 min rest",
+      "minutes": 17,
+      "text": "While the tray roasts, rinse the basmati, put it in a small pan with 240 ml water and a pinch of salt. Bring to the boil, cover, cook on the lowest heat 12 min, then rest off the heat with the lid on 5 min."
+    },
+    {
+      "title": "Make the raita",
+      "minutes": 5,
+      "text": "Mix the 150 g yogurt with the squeezed cucumber, mint, the remaining lemon juice and a pinch of salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: three-quarters of the chicken (about 490 g raw weight, i.e. 4–5 thighs), three-quarters of the rice, 60% of the vegetables and two-thirds of the raita. Partner: the rest. Scatter with coriander."
+    }
+  ],
+  "notes": "Kifli swap: if garam masala is out, use 2 tsp mild curry powder. 2% Greek yogurt (e.g. Fage Total 2%); with 10% Hungarian görög joghurt add about +60 kcal for Matthias. Leftover chicken is excellent cold."
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Brown-Butter Cod with Mustard Lentils, Honey-Roast Carrots & Dill Yogurt",
+  "description": "Cod loin basted in nutty brown butter, on warm green lentils cooked in stock and white wine with shallot, mustard and spinach, alongside cumin-honey roast carrots and a lemony dill yogurt.",
+  "planned": "2026-10-26",
+  "cooked": null,
+  "totalMinutes": 50,
+  "tags": [
+    "fish",
+    "oven",
+    "hob"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1460,
+      "protein": 130,
+      "carbs": 138,
+      "fat": 42
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 18
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Cod loin, skinless (tőkehal), 4 portions",
+      "amount": "600 g"
+    },
+    {
+      "name": "Butter",
+      "amount": "25 g"
+    },
+    {
+      "name": "Green or Puy lentils, dried",
+      "amount": "180 g"
+    },
+    {
+      "name": "Shallots, finely diced",
+      "amount": "2 (60 g)"
+    },
+    {
+      "name": "Olive oil, divided",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Vegetable or chicken stock",
+      "amount": "350 ml"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "Carrots, halved lengthways",
+      "amount": "500 g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Greek yogurt, 2%",
+      "amount": "150 g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "Lemon, zest and juice",
+      "amount": "1"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "1.5 tsp salt, pepper to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the carrots 30–35 min",
+      "minutes": 35,
+      "text": "Heat the oven to 210°C fan. Toss the carrots with 1 tbsp olive oil, the cumin, honey and ½ tsp salt on a lined tray. Roast 30–35 min, turning once, until caramelised at the edges."
+    },
+    {
+      "title": "Start the lentils (25 min)",
+      "minutes": 25,
+      "text": "Rinse the lentils. In a saucepan, soften the shallots in 1 tbsp olive oil over medium heat for 3 min. Add the lentils, wine, stock, bay leaf and thyme. Bring to the boil, then simmer uncovered 22–25 min until tender but holding their shape; add a splash of water if it dries out."
+    },
+    {
+      "title": "Make the dill yogurt",
+      "minutes": 3,
+      "text": "Mix the yogurt with the dill, the lemon zest, half the lemon juice and a pinch of salt."
+    },
+    {
+      "title": "Finish the lentils",
+      "minutes": 2,
+      "text": "Remove the bay leaf. Stir in the mustard, the spinach (it wilts in 1–2 min), the remaining lemon juice, ½ tsp salt and plenty of pepper. Keep warm off the heat."
+    },
+    {
+      "title": "Pan-fry the cod 6–8 min",
+      "minutes": 8,
+      "text": "Pat the cod very dry and season with ½ tsp salt. Heat a non-stick pan over medium-high, add the butter and, once foaming, the cod. Cook 4 min without moving until golden, flip, then cook 2–4 min more (depending on thickness), spooning the browning butter over the fish. It's done when it flakes and reaches 55–60°C inside."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Matthias: 3 cod portions (about 445 g raw) with the pan butter, three-quarters of the lentils, 60% of the carrots and two-thirds of the yogurt. Partner: 1 cod portion and the rest."
+    }
+  ],
+  "notes": "Kifli swap: if cod loin is out, use hake (szürke tőkehal / hekk filé) or pollock, same timing. Puy lentils can be scarce; standard green lentils (zöld lencse) or beluga lentils work — check the packet, smaller lentils may need only 18–20 min. Leave the wine out and use extra stock if you prefer."
+}
