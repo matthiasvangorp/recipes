@@ -1,0 +1,126 @@
+{
+  "title": "Red Wine Braised Beef Shin — Mash on Saturday, Pappardelle Ragù on Sunday",
+  "description": "One slow oven braise, two dinners: beef shin, mushrooms and red wine served with mash and green beans on Saturday, then shredded into a ragù over pappardelle on Sunday. Garlic optional.",
+  "planned": "2026-10-31",
+  "cooked": null,
+  "totalMinutes": 240,
+  "tags": [
+    "beef",
+    "oven",
+    "slow",
+    "cook-once-eat-twice"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1320,
+      "protein": 101,
+      "carbs": 138,
+      "fat": 36
+    },
+    "partner": {
+      "kcal": 600,
+      "protein": 60,
+      "carbs": 43,
+      "fat": 18
+    }
+  },
+  "ingredients": [
+    { "name": "Beef shin (marhalábszár), 4 cm chunks", "amount": "1200 g" },
+    { "name": "Olive oil", "amount": "15 ml" },
+    { "name": "Onions, diced", "amount": "300 g" },
+    { "name": "Carrots, diced", "amount": "250 g" },
+    { "name": "Celery, diced", "amount": "100 g" },
+    { "name": "Brown mushrooms (barna csiperke), quartered", "amount": "400 g" },
+    { "name": "Garlic clove, sliced (optional)", "amount": "1" },
+    { "name": "Tomato paste", "amount": "30 g" },
+    { "name": "Plain flour", "amount": "10 g" },
+    { "name": "Sweet paprika", "amount": "1 tsp" },
+    { "name": "Dry red wine", "amount": "250 ml" },
+    { "name": "Beef stock", "amount": "400 ml" },
+    { "name": "Bay leaves", "amount": "2" },
+    { "name": "Fresh thyme sprigs", "amount": "4" },
+    { "name": "Salt", "amount": "1.5 tsp" },
+    { "name": "Black pepper", "amount": "0.5 tsp" },
+    { "name": "Saturday — floury potatoes, peeled and chunked", "amount": "500 g" },
+    { "name": "Saturday — semi-skimmed milk", "amount": "80 ml" },
+    { "name": "Saturday — butter", "amount": "15 g" },
+    { "name": "Saturday — green beans, trimmed", "amount": "300 g" },
+    { "name": "Saturday — sourdough bread (Matthias)", "amount": "60 g" },
+    { "name": "Sunday — dried egg pappardelle (or tagliatelle)", "amount": "175 g" },
+    { "name": "Sunday — parmesan, finely grated", "amount": "20 g" },
+    { "name": "Sunday — rocket", "amount": "40 g" }
+  ],
+  "steps": [
+    {
+      "title": "Prep and season the beef",
+      "minutes": 10,
+      "text": "Heat the oven to 160°C (fan 150°C). Pat the beef dry and season with 1 tsp of the salt and the pepper."
+    },
+    {
+      "title": "Sear the beef in batches",
+      "minutes": 12,
+      "text": "Heat the olive oil in a large lidded ovenproof casserole over high heat. Sear the beef in 2–3 batches, about 4 min per batch, until well browned. Don't crowd the pot. Set aside on a plate."
+    },
+    {
+      "title": "Soften the vegetables",
+      "minutes": 10,
+      "text": "Lower to medium. Add the onions, carrots and celery with the remaining ½ tsp salt and cook 10 min, scraping up the browned bits, until soft and golden. Add the garlic for the last minute if using."
+    },
+    {
+      "title": "Brown the mushrooms",
+      "minutes": 7,
+      "text": "Push the vegetables aside, add the mushrooms and cook 7 min until they've released their water and started to colour."
+    },
+    {
+      "title": "Toast paste, flour and paprika",
+      "minutes": 2,
+      "text": "Stir in the tomato paste, flour and paprika and cook 2 min, stirring constantly so the paprika doesn't burn."
+    },
+    {
+      "title": "Deglaze with wine",
+      "minutes": 4,
+      "text": "Pour in the wine and let it bubble 4 min until reduced by about half."
+    },
+    {
+      "title": "Braise in the oven",
+      "minutes": 180,
+      "text": "Return the beef and juices. Add the stock, bay leaves and thyme — liquid should come about three-quarters up the meat. Bring to a simmer, cover and braise in the oven 2 h 30 min, then uncover and braise 30 min more to thicken. Done when the beef falls apart under a fork."
+    },
+    {
+      "title": "Saturday: boil the potatoes",
+      "minutes": 20,
+      "text": "During the last 30 min of braising, cover the potatoes with cold salted water, bring to the boil and simmer 18–20 min until completely tender. Drain and steam-dry 2 min."
+    },
+    {
+      "title": "Saturday: mash and beans",
+      "minutes": 5,
+      "text": "Warm the milk with the butter and mash into the potatoes; season. Boil or steam the green beans 5 min until just tender."
+    },
+    {
+      "title": "Saturday: serve half the braise",
+      "minutes": null,
+      "text": "Remove the bay leaves and thyme stalks. Ladle out half the braise (beef ~60% Matthias, ~40% partner). Mash about 470 g / 120 g, beans 180 g / 120 g, sourdough for Matthias."
+    },
+    {
+      "title": "Cool and refrigerate the rest",
+      "minutes": 60,
+      "text": "Cool the remaining half for up to 1 hour, then cover and refrigerate. Keeps 3 days."
+    },
+    {
+      "title": "Sunday: shred and reheat the ragù",
+      "minutes": 20,
+      "text": "Lift off any set fat. Shred the beef in the pot with two forks and reheat over medium-low 15–20 min, stirring now and then. Add a splash of water if too thick to coat pasta."
+    },
+    {
+      "title": "Sunday: cook the pappardelle",
+      "minutes": 7,
+      "text": "Boil the pappardelle in well-salted water 6–8 min (check the packet). Save a mug of pasta water before draining."
+    },
+    {
+      "title": "Sunday: toss and serve",
+      "minutes": 2,
+      "text": "Toss the pasta through the ragù with a splash of pasta water until glossy. Pasta 140 g dry Matthias / 35 g partner, ragù split 60/40. Parmesan 15 g / 5 g, rocket on the side."
+    }
+  ],
+  "notes": "Macros shown are Saturday's. Sunday (ragù pappardelle): Matthias ~1,280 kcal, 109 g protein, 125 g carbs, 33 g fat; partner ~605 kcal, 62 g protein, 43 g carbs, 18 g fat. No protein bridge needed either night. Start around 15:30 on Saturday for dinner around 19:30; Sunday takes about 25 min. Kifli swap: if shin is out, use beef cheeks (marhapofa, allow 3.5 h) or chuck (marhalapocka)."
+}
