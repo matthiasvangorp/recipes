@@ -2,7 +2,7 @@
   "title": "Red Wine Braised Beef Shin — Mash on Saturday, Pappardelle Ragù on Sunday",
   "description": "One slow oven braise, two dinners: beef shin, mushrooms and red wine served with mash and green beans on Saturday, then shredded into a ragù over pappardelle on Sunday. Garlic optional.",
   "planned": "2026-10-31",
-  "cooked": null,
+  "cooked": "2026-11-01",
   "totalMinutes": 240,
   "tags": [
     "beef",
@@ -25,30 +25,102 @@
     }
   },
   "ingredients": [
-    { "name": "Beef shin (marhalábszár), 4 cm chunks", "amount": "1200 g" },
-    { "name": "Olive oil", "amount": "15 ml" },
-    { "name": "Onions, diced", "amount": "300 g" },
-    { "name": "Carrots, diced", "amount": "250 g" },
-    { "name": "Celery, diced", "amount": "100 g" },
-    { "name": "Brown mushrooms (barna csiperke), quartered", "amount": "400 g" },
-    { "name": "Garlic clove, sliced (optional)", "amount": "1" },
-    { "name": "Tomato paste", "amount": "30 g" },
-    { "name": "Plain flour", "amount": "10 g" },
-    { "name": "Sweet paprika", "amount": "1 tsp" },
-    { "name": "Dry red wine", "amount": "250 ml" },
-    { "name": "Beef stock", "amount": "400 ml" },
-    { "name": "Bay leaves", "amount": "2" },
-    { "name": "Fresh thyme sprigs", "amount": "4" },
-    { "name": "Salt", "amount": "1.5 tsp" },
-    { "name": "Black pepper", "amount": "0.5 tsp" },
-    { "name": "Saturday — floury potatoes, peeled and chunked", "amount": "500 g" },
-    { "name": "Saturday — semi-skimmed milk", "amount": "80 ml" },
-    { "name": "Saturday — butter", "amount": "15 g" },
-    { "name": "Saturday — green beans, trimmed", "amount": "300 g" },
-    { "name": "Saturday — sourdough bread (Matthias)", "amount": "60 g" },
-    { "name": "Sunday — dried egg pappardelle (or tagliatelle)", "amount": "175 g" },
-    { "name": "Sunday — parmesan, finely grated", "amount": "20 g" },
-    { "name": "Sunday — rocket", "amount": "40 g" }
+    {
+      "name": "Beef shin (marhalábszár), 4 cm chunks",
+      "amount": "1200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Onions, diced",
+      "amount": "300 g"
+    },
+    {
+      "name": "Carrots, diced",
+      "amount": "250 g"
+    },
+    {
+      "name": "Celery, diced",
+      "amount": "100 g"
+    },
+    {
+      "name": "Brown mushrooms (barna csiperke), quartered",
+      "amount": "400 g"
+    },
+    {
+      "name": "Garlic clove, sliced (optional)",
+      "amount": "1"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "Plain flour",
+      "amount": "10 g"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dry red wine",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Saturday — floury potatoes, peeled and chunked",
+      "amount": "500 g"
+    },
+    {
+      "name": "Saturday — semi-skimmed milk",
+      "amount": "80 ml"
+    },
+    {
+      "name": "Saturday — butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Saturday — green beans, trimmed",
+      "amount": "300 g"
+    },
+    {
+      "name": "Saturday — sourdough bread (Matthias)",
+      "amount": "60 g"
+    },
+    {
+      "name": "Sunday — dried egg pappardelle (or tagliatelle)",
+      "amount": "175 g"
+    },
+    {
+      "name": "Sunday — parmesan, finely grated",
+      "amount": "20 g"
+    },
+    {
+      "name": "Sunday — rocket",
+      "amount": "40 g"
+    }
   ],
   "steps": [
     {
