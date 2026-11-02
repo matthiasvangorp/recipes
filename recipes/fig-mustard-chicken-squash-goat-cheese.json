@@ -1,0 +1,109 @@
+{
+  "title": "Fig & Mustard-Glazed Chicken with Roast Squash & Goat Cheese Rucola",
+  "description": "One-tray chicken thighs lacquered with homemade fig jam, over roast butternut and red onion, topped with rucola, goat cheese and toasted walnuts.",
+  "planned": "2026-11-02",
+  "cooked": null,
+  "totalMinutes": 50,
+  "tags": [
+    "chicken",
+    "oven",
+    "one-tray"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1410,
+      "protein": 99,
+      "carbs": 103,
+      "fat": 67
+    },
+    "partner": {
+      "kcal": 595,
+      "protein": 57,
+      "carbs": 46,
+      "fat": 20
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thighs",
+      "amount": "650 g"
+    },
+    {
+      "name": "Butternut squash, peeled & seeded, 2.5 cm cubes (~1 kg whole)",
+      "amount": "700 g"
+    },
+    {
+      "name": "Red onions, cut into wedges",
+      "amount": "2"
+    },
+    {
+      "name": "Fig jam",
+      "amount": "60 g (4 tbsp)"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Rucola",
+      "amount": "40 g"
+    },
+    {
+      "name": "Soft goat cheese, crumbled",
+      "amount": "70 g"
+    },
+    {
+      "name": "Walnuts (Matthias only)",
+      "amount": "20 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven and prep the veg",
+      "minutes": 5,
+      "text": "Heat the oven to 200 °C (180 °C fan). Cube the squash and cut the onions into wedges."
+    },
+    {
+      "title": "Roast the veg",
+      "minutes": 15,
+      "text": "Toss the squash and onion with 1½ tbsp olive oil, the thyme leaves and ½ tsp salt. Spread on a large lined tray and roast 15 min."
+    },
+    {
+      "title": "Make the fig glaze",
+      "minutes": 2,
+      "text": "Meanwhile whisk the fig jam, Dijon and balsamic with a pinch of salt until smooth. Set aside 2 tbsp of glaze for finishing."
+    },
+    {
+      "title": "Glaze and roast the chicken",
+      "minutes": 25,
+      "text": "Season the thighs with the remaining salt and brush with the main portion of glaze. Nestle them among the veg and roast 20 min. Brush with the reserved 2 tbsp glaze and roast 5 min more, until sticky and 75 °C in the thickest part."
+    },
+    {
+      "title": "Toast the walnuts",
+      "minutes": 3,
+      "text": "While the chicken finishes, toast the walnuts in a dry pan over medium heat for 3 min, then roughly chop."
+    },
+    {
+      "title": "Rest, dress and split",
+      "minutes": 5,
+      "text": "Rest the chicken 5 min. Toss the rucola with the remaining olive oil (about 1½ tsp) and a spoon of tray juices. Matthias: ≈400 g chicken, 500 g squash, most of the onion, 50 g goat cheese and the walnuts. Partner: ≈250 g chicken, 200 g squash, a few onion wedges, 20 g goat cheese. Rucola on top of both."
+    }
+  ],
+  "notes": "Cook this second, within 2–3 days, while the rucola is still good."
+}

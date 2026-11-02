@@ -1,0 +1,109 @@
+{
+  "title": "Greek Prawn Saganaki with Feta & Lemon Orzo",
+  "description": "King prawns in a chilli-oregano tomato sauce, finished under the grill with crumbled feta, over lemony orzo. Garlic-free.",
+  "planned": "2026-11-02",
+  "cooked": null,
+  "totalMinutes": 35,
+  "tags": [
+    "seafood",
+    "hob",
+    "grill"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1350,
+      "protein": 116,
+      "carbs": 133,
+      "fat": 37
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 66,
+      "carbs": 42,
+      "fat": 17
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Raw peeled king prawns (frozen is fine — thaw overnight in the fridge)",
+      "amount": "700 g"
+    },
+    {
+      "name": "Orzo, uncooked",
+      "amount": "185 g"
+    },
+    {
+      "name": "Water (for the orzo), salted",
+      "amount": "1.5 l"
+    },
+    {
+      "name": "Passata",
+      "amount": "500 g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 (~150 g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Feta, crumbled",
+      "amount": "100 g"
+    },
+    {
+      "name": "Lemon (zest and juice)",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh dill or flat-leaf parsley, chopped",
+      "amount": "15 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start the sauce",
+      "minutes": 6,
+      "text": "Heat 1½ tbsp olive oil in an ovenproof frying pan over medium heat. Soften the onion with a pinch of salt for 6 min, then stir in the oregano and chilli flakes for 30 seconds."
+    },
+    {
+      "title": "Simmer the tomato",
+      "minutes": 10,
+      "text": "Add the passata and 100 ml water, season with ½ tsp salt and simmer 10 min until slightly thickened. Bring the 1.5 l salted water to the boil for the orzo meanwhile."
+    },
+    {
+      "title": "Cook the orzo",
+      "minutes": 9,
+      "text": "Cook the orzo in the boiling water for 9 min. Drain and toss with the remaining olive oil (about 1½ tsp), the lemon zest and half the lemon juice."
+    },
+    {
+      "title": "Poach the prawns",
+      "minutes": 3,
+      "text": "Heat the grill to high. Pat the prawns dry, stir them into the sauce and cook 3 min until just turning pink (they finish under the grill)."
+    },
+    {
+      "title": "Grill with feta",
+      "minutes": 4,
+      "text": "Scatter the feta over the top and slide the pan under the grill for 4 min, until the feta is soft and golden at the edges and the prawns are cooked through. No ovenproof pan? Tip into a baking dish first."
+    },
+    {
+      "title": "Finish and split",
+      "minutes": null,
+      "text": "Squeeze over the remaining lemon juice and scatter with dill. Matthias: ≈420 g prawns with 70 g feta over orzo from 150 g uncooked. Partner: ≈280 g prawns with 30 g feta over orzo from 35 g uncooked."
+    }
+  ],
+  "notes": "Cook any day this week (prawns from the freezer keep). Kifli usually has frozen raw king prawns; if only cooked prawns are available, add them with the feta and just heat through."
+}

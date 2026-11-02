@@ -1,0 +1,91 @@
+{
+  "title": "Steak Tagliata with Rucola, Parmesan & Rosemary Roast Potatoes",
+  "description": "Seared sirloin sliced over lemony rucola with shaved Parmesan, with crisp rosemary roast potatoes. Garlic-free.",
+  "planned": "2026-11-02",
+  "cooked": null,
+  "totalMinutes": 55,
+  "tags": [
+    "beef",
+    "oven"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1340,
+      "protein": 100,
+      "carbs": 95,
+      "fat": 60
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 60,
+      "carbs": 27,
+      "fat": 27
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Beef sirloin (hátszín), ~2.5 cm thick, fat trimmed (one ~360 g + one ~240 g)",
+      "amount": "600 g"
+    },
+    {
+      "name": "Potatoes, 3 cm chunks",
+      "amount": "700 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Rucola",
+      "amount": "60 g"
+    },
+    {
+      "name": "Parmesan, shaved",
+      "amount": "35 g"
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven and prep",
+      "minutes": 5,
+      "text": "Heat the oven to 220 °C (200 °C fan). Cut the potatoes into 3 cm chunks. Take the steaks out of the fridge so they lose their chill while the potatoes roast."
+    },
+    {
+      "title": "Roast the potatoes",
+      "minutes": 45,
+      "text": "Toss the potatoes with 2 tbsp olive oil, the stripped rosemary leaves and ½ tsp salt. Spread in one layer and roast 40–45 min, turning once at 20 min, until golden and crisp."
+    },
+    {
+      "title": "Sear the steaks",
+      "minutes": 8,
+      "text": "With about 15 min of potato time left, pat the steaks dry and season with the remaining salt. Heat a heavy pan on high with 1 tsp olive oil until smoking. Sear 4 min per side for medium (58–60 °C core), plus 1 min standing on the fat edge."
+    },
+    {
+      "title": "Rest the meat",
+      "minutes": 5,
+      "text": "Rest the steaks on a board for 5 min so the juices settle."
+    },
+    {
+      "title": "Dress the rucola, slice and split",
+      "minutes": null,
+      "text": "Toss the rucola with the remaining olive oil (about 2 tsp) and the lemon juice and spread on plates. Slice the steak thinly against the grain, lay it over the rucola and pour over the board juices. Finish with Parmesan and pepper. Matthias: ≈360 g steak, 550 g potatoes, 40 g rucola, 25 g Parmesan. Partner: ≈240 g steak, 150 g potatoes, 20 g rucola, 10 g Parmesan, lighter on the oil."
+    }
+  ],
+  "notes": "Cook this one first — it uses most of the rucola while it's freshest. No protein bridge needed."
+}
