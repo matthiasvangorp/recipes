@@ -5,7 +5,6 @@ Weekly dinner recipes, published at https://recipes.homekit-products.eu.
 - `recipes/*.json` — one file per recipe. `cooked` is `null` until it's made, then a `YYYY-MM-DD` date.
 - `build.mjs` — zero-dependency build: `node build.mjs` → `dist/`.
 - `functions/api/cooked.js` — Cloudflare Pages Function behind the "Cooked it" button; commits the `cooked` date back to this repo.
-- `shopping/YYYY-MM-DD.json` — weekly shopping list; the latest one is published at `/shopping/` with tickable items.
 - `site.config.json` — site title and the two people the macros are split between.
 - `dist/recipes.json` — machine-readable list of recipes and cooked status.
 

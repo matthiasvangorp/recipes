@@ -87,7 +87,3 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 650; letter-spacing: -0.015
 
 #toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 10px 16px; border-radius: 10px; font-size: 15px; opacity: 0; transition: opacity .2s; pointer-events: none; max-width: calc(100% - 32px); }
 #toast.show { opacity: 1; }
-
-.shop-link { margin: 0 0 1.5rem; }
-.shop-link a { display: inline-block; padding: .55rem .9rem; border-radius: 999px; background: var(--card); color: var(--ink); text-decoration: none; font-weight: 600; border: 1px solid rgba(0,0,0,.08); }
-.notes ul { margin: .25rem 0 0; padding-left: 1.1rem; }

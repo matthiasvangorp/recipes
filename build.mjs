@@ -24,12 +24,6 @@ const cooked = recipes.filter((r) => r.cooked).sort((a, b) => b.cooked.localeCom
 
 const [p1, p2] = config.people;
 
-// Shopping list: shopping/YYYY-MM-DD.json — the most recent week is published at /shopping/.
-const SHOP = join(ROOT, "shopping");
-let shopFiles = [];
-try { shopFiles = readdirSync(SHOP).filter((f) => f.endsWith(".json")).sort(); } catch {}
-const shop = shopFiles.length ? JSON.parse(readFileSync(join(SHOP, shopFiles.at(-1)), "utf8")) : null;
-
 const layout = (title, body, { isRecipe = false, slug = "" } = {}) => `<!doctype html>
 <html lang="en">
 <head>
@@ -110,37 +104,9 @@ const card = (r) => `<li class="card">
 const archiveRow = (r) =>
   `<li><a href="/r/${esc(r.slug)}/">${esc(r.title)}</a><span class="muted">${esc(fmtDate(r.cooked))}</span></li>`;
 
-const shopLink = shop
-  ? `<p class="shop-link"><a href="/shopping/">Shopping list · week of ${esc(fmtDate(shop.week))} →</a></p>`
-  : "";
-
-const shoppingPage = shop
-  ? layout(
-      `Shopping list · ${config.siteTitle}`,
-      `<article class="recipe">
-  <p class="eyebrow">Week of ${esc(fmtDate(shop.week))}</p>
-  <h1>Shopping list</h1>
-  ${shop.note ? `<p class="lede">${esc(shop.note)}</p>` : ""}
-  <section class="ingredients">
-    <ul>${shop.items
-      .map(
-        (i, n) =>
-          `<li><label><input type="checkbox" data-key="shop-${esc(shop.week)}:${n}"><span class="amt">${esc(i.amount)}</span> <span>${esc(i.name)}</span></label></li>`
-      )
-      .join("")}</ul>
-  </section>
-  <aside class="notes"><h2>For</h2><ul>${(shop.recipes || [])
-    .map((slug) => recipes.find((r) => r.slug === slug))
-    .filter(Boolean)
-    .map((r) => `<li><a href="/r/${esc(r.slug)}/">${esc(r.title)}</a></li>`)
-    .join("")}</ul></aside>
-</article>`
-    )
-  : null;
-
 const index = layout(
   config.siteTitle,
-  `${shopLink}<section>
+  `<section>
   <h1 class="page-title">To cook</h1>
   ${toCook.length ? `<ul class="cards">${toCook.map(card).join("")}</ul>` : `<p class="muted">Nothing planned. Time to ask Claude for a new week.</p>`}
 </section>
@@ -154,10 +120,6 @@ const index = layout(
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 writeFileSync(join(OUT, "index.html"), index);
-if (shoppingPage) {
-  mkdirSync(join(OUT, "shopping"), { recursive: true });
-  writeFileSync(join(OUT, "shopping", "index.html"), shoppingPage);
-}
 for (const r of recipes) {
   mkdirSync(join(OUT, "r", r.slug), { recursive: true });
   writeFileSync(join(OUT, "r", r.slug, "index.html"), recipePage(r));
