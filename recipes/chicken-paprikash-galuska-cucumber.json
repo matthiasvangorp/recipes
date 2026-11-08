@@ -1,0 +1,126 @@
+{
+  "title": "Chicken Paprikash with Egg Galuska & Cucumber Salad",
+  "description": "Hungarian classic: chicken thighs braised in a sweet-paprika, pepper and tomato sauce, finished with tejföl, served with egg galuska and a sweet-sour cucumber salad. Hob only, garlic-free.",
+  "planned": "2026-11-08",
+  "cooked": null,
+  "totalMinutes": 45,
+  "tags": [
+    "chicken",
+    "hob",
+    "hungarian"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1410,
+      "protein": 101,
+      "carbs": 85,
+      "fat": 70
+    },
+    "partner": {
+      "kcal": 605,
+      "protein": 44,
+      "carbs": 30,
+      "fat": 32
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thigh fillets, halved",
+      "amount": "650 g"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "250 g"
+    },
+    {
+      "name": "Sweet Hungarian paprika (édesnemes)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pointed red pepper (kápia), sliced",
+      "amount": "150 g"
+    },
+    {
+      "name": "Tomato, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Tejföl (sour cream) 12%",
+      "amount": "150 g"
+    },
+    {
+      "name": "Plain flour",
+      "amount": "10 g"
+    },
+    {
+      "name": "Dried egg galuska (nokedli) pasta",
+      "amount": "115 g"
+    },
+    {
+      "name": "Cucumber, very thinly sliced",
+      "amount": "300 g"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Water (for the salad dressing)",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the cucumbers",
+      "minutes": 15,
+      "text": "Toss the sliced cucumber with ½ tsp salt and leave 15 min. Squeeze out the liquid, then mix with the vinegar, water and sugar. Chill until serving."
+    },
+    {
+      "title": "Soften the onions",
+      "minutes": 8,
+      "text": "Heat the oil in a wide lidded pan over medium heat. Cook the onions with a pinch of salt 8 min until soft and golden, not browned."
+    },
+    {
+      "title": "Bloom the paprika off the heat",
+      "minutes": 1,
+      "text": "Take the pan off the heat and stir in the paprika for 1 min — off-heat matters, scorched paprika turns bitter."
+    },
+    {
+      "title": "Add chicken and veg, simmer",
+      "minutes": 25,
+      "text": "Back on medium heat, add the chicken, pointed pepper, tomato, stock and 1 tsp salt. Bring to a simmer, cover and cook gently 25 min until the chicken is tender."
+    },
+    {
+      "title": "Boil the galuska",
+      "minutes": 9,
+      "text": "Meanwhile cook the galuska in salted boiling water 8–10 min (check the packet). Drain."
+    },
+    {
+      "title": "Finish with tejföl",
+      "minutes": 3,
+      "text": "Whisk the flour into the tejföl, stir in a ladle of the hot sauce to temper it, then pour back into the pan. Simmer uncovered 3 min until thickened — don't boil hard or it can split. Taste for salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Galuska 90 g dry weight Matthias / 25 g partner; chicken 450 g / 200 g with the sauce over (~65/35); cucumber salad on the side."
+    }
+  ],
+  "notes": "No protein bridge needed. Galuska and kápia are standard at Kifli/Spar; if there's no kápia, any red bell pepper works."
+}
