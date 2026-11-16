@@ -1,0 +1,117 @@
+{
+  "title": "Za'atar Chicken with Honey-Roast Carrots, Bulgur & Tahini Yogurt",
+  "description": "Za'atar-crusted chicken thighs roasted on one tray with carrots and red onion, with lemony bulgur, tahini yogurt and pomegranate. Garlic-free.",
+  "planned": "2026-11-16",
+  "cooked": null,
+  "totalMinutes": 45,
+  "tags": [
+    "chicken",
+    "oven",
+    "one-tray"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1395,
+      "protein": 119,
+      "carbs": 139,
+      "fat": 45
+    },
+    "partner": {
+      "kcal": 615,
+      "protein": 50,
+      "carbs": 56,
+      "fat": 23
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thigh fillets",
+      "amount": "620 g"
+    },
+    {
+      "name": "Carrots, halved lengthways",
+      "amount": "500 g"
+    },
+    {
+      "name": "Red onion, cut into wedges",
+      "amount": "200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "Za'atar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "10 g"
+    },
+    {
+      "name": "Bulgur (uncooked)",
+      "amount": "120 g"
+    },
+    {
+      "name": "Boiling water (for the bulgur)",
+      "amount": "240 ml"
+    },
+    {
+      "name": "Greek yogurt 2%",
+      "amount": "200 g"
+    },
+    {
+      "name": "Tahini",
+      "amount": "20 g"
+    },
+    {
+      "name": "Lemon, zested and juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "60 g"
+    },
+    {
+      "name": "Fresh mint or parsley, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the veg at 200 °C",
+      "minutes": 15,
+      "text": "Heat the oven to 200 °C (fan). Toss the carrots and red onion on a large tray with 10 ml of the olive oil and ½ tsp salt. Roast 15 min."
+    },
+    {
+      "title": "Season the chicken",
+      "minutes": null,
+      "text": "Meanwhile, rub the chicken with the za'atar, the remaining 10 ml olive oil and ½ tsp salt."
+    },
+    {
+      "title": "Roast chicken and veg",
+      "minutes": 25,
+      "text": "Push the veg to the sides, lay the chicken in the middle and roast 25 min until cooked through (75 °C inside). Drizzle the honey over the carrots for the last 5 min."
+    },
+    {
+      "title": "Soak the bulgur",
+      "minutes": 15,
+      "text": "While the chicken roasts, put the bulgur in a bowl with a pinch of salt, pour over the boiling water, cover and leave 15 min. Fluff with a fork and stir in the lemon zest, half the lemon juice and half the herbs."
+    },
+    {
+      "title": "Make the tahini yogurt",
+      "minutes": null,
+      "text": "Stir together the yogurt, tahini, the rest of the lemon juice and a pinch of salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Bulgur 100 g / 20 g uncooked weight (Matthias / Nyuszika); chicken about 435 g / 185 g raw (~70/30); carrots and onion about 60/40; tahini yogurt 140 g / 60 g. Finish with the pomegranate and remaining herbs."
+    }
+  ],
+  "notes": "If Kifli has no za'atar, mix 1 tbsp dried thyme, 1 tsp sumac and 1 tsp toasted sesame seeds. One pomegranate gives plenty of seeds."
+}

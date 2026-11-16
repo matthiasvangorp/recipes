@@ -1,0 +1,126 @@
+{
+  "title": "Beef & Mushroom Stroganoff with Basmati",
+  "description": "Seared sirloin strips in a smoky paprika, mushroom and tejföl sauce with a touch of Dijon, over basmati. Hob only, garlic-free.",
+  "planned": "2026-11-16",
+  "cooked": null,
+  "totalMinutes": 35,
+  "tags": [
+    "beef",
+    "hob",
+    "quick"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1395,
+      "protein": 104,
+      "carbs": 130,
+      "fat": 52
+    },
+    "partner": {
+      "kcal": 600,
+      "protein": 49,
+      "carbs": 40,
+      "fat": 28
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Beef sirloin (or rump), trimmed, cut into 1 cm strips",
+      "amount": "560 g"
+    },
+    {
+      "name": "Chestnut mushrooms, sliced",
+      "amount": "400 g"
+    },
+    {
+      "name": "Onion, finely sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "10 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Plain flour",
+      "amount": "8 g"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Tejföl (sour cream) 12%",
+      "amount": "120 g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "15 g"
+    },
+    {
+      "name": "Basmati rice (uncooked)",
+      "amount": "165 g"
+    },
+    {
+      "name": "Water (for the rice)",
+      "amount": "280 ml"
+    },
+    {
+      "name": "Flat-leaf parsley, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the rice",
+      "minutes": 17,
+      "text": "Rinse the rice, add to a pan with the 280 ml water and a pinch of salt. Bring to the boil, cover, turn to the lowest heat and cook 12 min. Take off the heat and rest 5 min, lid on."
+    },
+    {
+      "title": "Sear the beef",
+      "minutes": 4,
+      "text": "Pat the beef dry and season with ½ tsp salt and the pepper. Heat the oil in a wide pan on high heat. Sear the strips in 2 batches, 2 min per batch, so they brown rather than steam. Set aside."
+    },
+    {
+      "title": "Brown the mushrooms",
+      "minutes": 7,
+      "text": "Same pan, medium-high heat: add the butter and mushrooms with a pinch of salt. Cook 7 min until the liquid has gone and they're golden."
+    },
+    {
+      "title": "Soften the onion",
+      "minutes": 5,
+      "text": "Add the onion and cook 5 min until soft."
+    },
+    {
+      "title": "Paprika, flour and stock",
+      "minutes": 4,
+      "text": "Stir in the paprika and flour for 1 min, then pour in the stock. Simmer 3 min until slightly thickened."
+    },
+    {
+      "title": "Finish with tejföl",
+      "minutes": 2,
+      "text": "Turn the heat to low. Mix the tejföl with the Dijon and a spoonful of the hot sauce, then stir it into the pan. Return the beef and its juices and warm 2 min — don't let it boil or the tejföl can split. Taste for salt and scatter over the parsley."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Rice 135 g / 30 g uncooked weight (Matthias / Nyuszika); stroganoff roughly two-thirds / one-third."
+    }
+  ],
+  "notes": "No protein bridge needed. Chestnut (barna csiperke) mushrooms are sometimes out on Kifli — plain white ones work fine."
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Parmesan-Crusted Salmon with Roast Fennel, Potatoes & Dill Yogurt",
+  "description": "Salmon under a crisp Parmesan-lemon crust, roasted on a tray with baby potatoes, fennel and cherry tomatoes, with a lemon-dill yogurt. Garlic-free.",
+  "planned": "2026-11-16",
+  "cooked": null,
+  "totalMinutes": 40,
+  "tags": [
+    "fish",
+    "oven",
+    "one-tray"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1465,
+      "protein": 104,
+      "carbs": 107,
+      "fat": 66
+    },
+    "partner": {
+      "kcal": 610,
+      "protein": 42,
+      "carbs": 43,
+      "fat": 29
+    }
+  },
+  "ingredients": [
+    {
+      "name": "Skinless salmon fillets",
+      "amount": "510 g"
+    },
+    {
+      "name": "Baby potatoes, halved",
+      "amount": "530 g"
+    },
+    {
+      "name": "Fennel bulb, cut into wedges",
+      "amount": "350 g"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "250 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "25 g"
+    },
+    {
+      "name": "Parmesan, finely grated",
+      "amount": "30 g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "10 g"
+    },
+    {
+      "name": "Lemon, zested and juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Flat-leaf parsley, chopped",
+      "amount": "5 g"
+    },
+    {
+      "name": "Greek yogurt 2%",
+      "amount": "130 g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "5 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast potatoes and fennel at 210 °C",
+      "minutes": 20,
+      "text": "Heat the oven to 210 °C (fan). Toss the potatoes and fennel on a large tray with the olive oil and ½ tsp salt. Roast 20 min."
+    },
+    {
+      "title": "Make the crust",
+      "minutes": null,
+      "text": "Meanwhile, mix the panko, Parmesan, lemon zest and parsley. Pat the salmon dry, season lightly with salt, spread the top thinly with the Dijon and press the crumb mix on."
+    },
+    {
+      "title": "Add salmon and tomatoes",
+      "minutes": 13,
+      "text": "Turn the potatoes, add the cherry tomatoes, nestle the salmon among the veg and roast 12–14 min until the crust is golden and the salmon flakes easily."
+    },
+    {
+      "title": "Make the dill yogurt",
+      "minutes": null,
+      "text": "Stir together the yogurt, dill, 1 tbsp lemon juice and a pinch of salt."
+    },
+    {
+      "title": "Plate and split",
+      "minutes": null,
+      "text": "Salmon about 360 g / 150 g raw (Matthias / Nyuszika); potatoes about 400 g / 130 g; fennel and tomatoes about 60/40; dill yogurt 100 g / 30 g. Squeeze the remaining lemon over."
+    }
+  ],
+  "notes": "The dill yogurt is the protein bridge on Matthias's plate. If there's no fennel, use 1 large leek cut into 3 cm pieces."
+}
