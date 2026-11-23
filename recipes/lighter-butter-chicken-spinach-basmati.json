@@ -1,0 +1,79 @@
+{
+  "title": "Lighter Butter Chicken with Spinach & Basmati",
+  "description": "A warming yogurt-marinated chicken curry with just 15 g of butter, a splash of cooking cream and a big handful of spinach, over basmati. Garlic-free — ginger does the work.",
+  "planned": "2026-11-23",
+  "cooked": null,
+  "totalMinutes": 45,
+  "tags": [
+    "chicken",
+    "hob",
+    "curry"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1150,
+      "protein": 113,
+      "carbs": 117,
+      "fat": 24
+    },
+    "partner": {
+      "kcal": 585,
+      "protein": 56,
+      "carbs": 60,
+      "fat": 13
+    }
+  },
+  "ingredients": [
+    { "name": "Chicken breast, 3 cm pieces", "amount": "550 g" },
+    { "name": "Greek yogurt 2%", "amount": "150 g" },
+    { "name": "Garam masala", "amount": "3 tsp" },
+    { "name": "Sweet paprika", "amount": "1 tsp" },
+    { "name": "Ground turmeric", "amount": "0.5 tsp" },
+    { "name": "Ground cumin", "amount": "1 tsp" },
+    { "name": "Chilli flakes", "amount": "0.5 tsp" },
+    { "name": "Salt", "amount": "1 tsp" },
+    { "name": "Basmati rice (uncooked)", "amount": "150 g" },
+    { "name": "Water for the rice", "amount": "225 ml" },
+    { "name": "Butter", "amount": "15 g" },
+    { "name": "Onion, finely chopped", "amount": "1 (~150 g)" },
+    { "name": "Fresh ginger, grated", "amount": "15 g" },
+    { "name": "Tomato paste", "amount": "1 tbsp" },
+    { "name": "Tomato passata", "amount": "400 g" },
+    { "name": "Cooking cream 10% (főzőtejszín)", "amount": "100 ml" },
+    { "name": "Baby spinach", "amount": "200 g" },
+    { "name": "Dried fenugreek leaves (kasuri methi, optional)", "amount": "1 tsp" }
+  ],
+  "steps": [
+    {
+      "title": "Marinate, 20 min",
+      "minutes": 20,
+      "text": "Mix the chicken with the yogurt, 1 tsp garam masala, the paprika, turmeric and ½ tsp salt. Leave 20 min (or up to a day in the fridge)."
+    },
+    {
+      "title": "Cook the rice, 12 min + 10 min rest",
+      "minutes": 22,
+      "text": "Rinse the basmati until the water runs clear. Bring to the boil with the 225 ml water and a pinch of salt, then cover and simmer on the lowest heat 12 min. Take off the heat and leave covered 10 min."
+    },
+    {
+      "title": "Sear the chicken, 5–6 min",
+      "minutes": 6,
+      "text": "Melt 5 g butter in a large non-stick pan over high heat. Sear the chicken with its marinade 5–6 min until coloured but not cooked through, then tip onto a plate."
+    },
+    {
+      "title": "Build the sauce, 8 + 10 min",
+      "minutes": 19,
+      "text": "Lower to medium, add the remaining 10 g butter and the onion and soften 8 min. Add the ginger, 2 tsp garam masala, the cumin, chilli and tomato paste and cook 1 min. Pour in the passata and the remaining ½ tsp salt and simmer 10 min."
+    },
+    {
+      "title": "Finish, 8–10 min",
+      "minutes": 10,
+      "text": "Stir in the cooking cream, return the chicken and simmer gently 8–10 min until cooked through. Fold in the spinach and let it wilt 2 min. Crumble in the fenugreek leaves if using."
+    },
+    {
+      "title": "Plate",
+      "minutes": null,
+      "text": "Matthias: about two-thirds of the curry (around 370 g raw chicken) and 300 g cooked rice (⅔ of the pot). Nyuszika: the remaining third (around 180 g chicken) and 150 g cooked rice."
+    }
+  ],
+  "notes": "No protein bridge needed. Garlic-free. Frozen leaf spinach works if baby spinach is out on Kifli."
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Slow-Roasted Paprika Pork Shoulder — Crispy Potatoes on Night 1, Székely-Style Sauerkraut on Night 2",
+  "description": "One slow oven roast, two dinners: paprika and caraway pork shoulder braised on onions for 3 hours, served with crispy potatoes and apple slaw on night 1, then pulled and simmered with sauerkraut, sour cream and rye bread on night 2. Garlic-free.",
+  "planned": "2026-11-23",
+  "cooked": null,
+  "totalMinutes": 235,
+  "tags": [
+    "pork",
+    "oven",
+    "slow",
+    "cook-once-eat-twice"
+  ],
+  "macros": {
+    "matthias": {
+      "kcal": 1235,
+      "protein": 97,
+      "carbs": 100,
+      "fat": 49
+    },
+    "partner": {
+      "kcal": 590,
+      "protein": 47,
+      "carbs": 46,
+      "fat": 24
+    }
+  },
+  "ingredients": [
+    { "name": "Boneless pork shoulder (sertés lapocka)", "amount": "1300 g" },
+    { "name": "Sweet paprika", "amount": "1 tbsp + 1 tsp" },
+    { "name": "Smoked paprika", "amount": "1 tsp" },
+    { "name": "Caraway seeds, lightly crushed", "amount": "3.5 tsp" },
+    { "name": "Dried marjoram", "amount": "1 tsp" },
+    { "name": "Salt", "amount": "2 tsp + extra" },
+    { "name": "Black pepper", "amount": "1 tsp" },
+    { "name": "Sunflower oil", "amount": "30 ml" },
+    { "name": "Large onions, thickly sliced", "amount": "3 (~450 g)" },
+    { "name": "Tomato paste", "amount": "1 tbsp" },
+    { "name": "Chicken stock", "amount": "250 ml" },
+    { "name": "Night 1 — waxy potatoes, 3 cm chunks", "amount": "550 g" },
+    { "name": "Night 1 — red cabbage, finely shredded", "amount": "200 g" },
+    { "name": "Night 1 — apple, cut into matchsticks", "amount": "1 (~100 g)" },
+    { "name": "Night 1 — Greek yogurt 2%", "amount": "140 g" },
+    { "name": "Night 1 — mustard", "amount": "1 tsp" },
+    { "name": "Night 1 — lemon juice", "amount": "1 tbsp" },
+    { "name": "Night 2 — sauerkraut (savanyú káposzta), drained", "amount": "450 g" },
+    { "name": "Night 2 — water", "amount": "150 ml" },
+    { "name": "Night 2 — sour cream 12%", "amount": "90 g" },
+    { "name": "Night 2 — Greek yogurt 2% (Matthias)", "amount": "50 g" },
+    { "name": "Night 2 — rye bread", "amount": "180 g" }
+  ],
+  "steps": [
+    {
+      "title": "Rub the pork",
+      "minutes": 10,
+      "text": "Heat the oven to 160°C fan. Pat the pork dry and trim the fat cap down to a thin layer (about 100 g comes off). Mix 1 tbsp sweet paprika, the smoked paprika, 2 tsp caraway, the marjoram, 2 tsp salt and the pepper with 15 ml oil, then rub it all over the pork."
+    },
+    {
+      "title": "Build the braise",
+      "minutes": 5,
+      "text": "Spread the sliced onions in a casserole or Dutch oven. Stir the tomato paste into the stock and pour it over the onions. Set the pork on top, fat side up."
+    },
+    {
+      "title": "Braise covered, 3 h at 160°C",
+      "minutes": 180,
+      "text": "Cover with the lid or tight foil and braise 3 hours, until a fork slides in with no resistance."
+    },
+    {
+      "title": "Night 1: uncover and roast potatoes, 40 min at 200°C",
+      "minutes": 40,
+      "text": "Take the lid off and turn the oven up to 200°C fan. Toss the potatoes with the remaining 15 ml oil, 1 tsp caraway and a pinch of salt and paprika, then spread them on a lined tray. Roast the potatoes and the uncovered pork together: pork comes out after 30 min, potatoes need 40 min in total."
+    },
+    {
+      "title": "Night 1: make the slaw",
+      "minutes": 10,
+      "text": "While everything roasts, whisk the 140 g yogurt, mustard, lemon juice and a pinch of salt. Toss with the red cabbage and apple."
+    },
+    {
+      "title": "Rest and split",
+      "minutes": 10,
+      "text": "Rest the pork 10 min, then pull it into large chunks: about 800 g of cooked meat. Tonight: Matthias 265 g, Nyuszika 135 g, plus half the onions and a spoonful of juices. Skim the fat off the remaining juices, then refrigerate the other 400 g pork, the rest of the onions and all the juices for night 2 (keeps 3 days)."
+    },
+    {
+      "title": "Night 1: plate",
+      "minutes": null,
+      "text": "Matthias: 265 g pork, 400 g potatoes (raw weight, about ¾ of the tray), about 70% of the slaw. Nyuszika: 135 g pork, 150 g potatoes, the rest of the slaw."
+    },
+    {
+      "title": "Night 2: simmer the sauerkraut, 20 min",
+      "minutes": 22,
+      "text": "Rinse the sauerkraut briefly in a sieve and squeeze it lightly. Put the reserved onions and juices in a wide pan with 1 tsp sweet paprika, ½ tsp caraway, the sauerkraut and 150 ml water. Cover and simmer gently 20 min, stirring once or twice."
+    },
+    {
+      "title": "Night 2: add the pork, 8–10 min",
+      "minutes": 10,
+      "text": "Shred the reserved 400 g pork, stir it in and heat uncovered 8–10 min, until piping hot and most of the liquid has reduced. Taste for salt."
+    },
+    {
+      "title": "Night 2: plate",
+      "minutes": null,
+      "text": "Matthias: 265 g pork with about 250 g sauerkraut, topped with 50 g sour cream mixed with 50 g Greek yogurt, and 120 g rye bread. Nyuszika: 135 g pork with about 180 g sauerkraut, 40 g sour cream and 60 g rye bread."
+    }
+  ],
+  "notes": "Macros shown are night 1's; the Greek yogurt in the slaw is Matthias's protein bridge. Night 2 (székely-style sauerkraut): Matthias ~1,135 kcal, 93 g protein, 81 g carbs, 45 g fat; Nyuszika ~590 kcal, 45 g protein, 44 g carbs, 24 g fat. Start around 15:30 for dinner around 19:30; night 2 takes about 30 min. Kifli swap: if lapocka is out, use pork neck (tarja) and trim it well — it's fattier."
+}
