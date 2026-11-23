@@ -12,10 +12,10 @@
   ],
   "macros": {
     "matthias": {
-      "kcal": 1235,
-      "protein": 97,
-      "carbs": 100,
-      "fat": 49
+      "kcal": 1000,
+      "protein": 92,
+      "carbs": 58,
+      "fat": 44
     },
     "partner": {
       "kcal": 590,
@@ -32,11 +32,11 @@
     { "name": "Dried marjoram", "amount": "1 tsp" },
     { "name": "Salt", "amount": "2 tsp + extra" },
     { "name": "Black pepper", "amount": "1 tsp" },
-    { "name": "Sunflower oil", "amount": "30 ml" },
+    { "name": "Sunflower oil", "amount": "25 ml" },
     { "name": "Large onions, thickly sliced", "amount": "3 (~450 g)" },
     { "name": "Tomato paste", "amount": "1 tbsp" },
     { "name": "Chicken stock", "amount": "250 ml" },
-    { "name": "Night 1 — waxy potatoes, 3 cm chunks", "amount": "550 g" },
+    { "name": "Night 1 — waxy potatoes, 3 cm chunks", "amount": "300 g" },
     { "name": "Night 1 — red cabbage, finely shredded", "amount": "200 g" },
     { "name": "Night 1 — apple, cut into matchsticks", "amount": "1 (~100 g)" },
     { "name": "Night 1 — Greek yogurt 2%", "amount": "140 g" },
@@ -44,9 +44,9 @@
     { "name": "Night 1 — lemon juice", "amount": "1 tbsp" },
     { "name": "Night 2 — sauerkraut (savanyú káposzta), drained", "amount": "450 g" },
     { "name": "Night 2 — water", "amount": "150 ml" },
-    { "name": "Night 2 — sour cream 12%", "amount": "90 g" },
+    { "name": "Night 2 — sour cream 12%", "amount": "70 g" },
     { "name": "Night 2 — Greek yogurt 2% (Matthias)", "amount": "50 g" },
-    { "name": "Night 2 — rye bread", "amount": "180 g" }
+    { "name": "Night 2 — rye bread", "amount": "130 g" }
   ],
   "steps": [
     {
@@ -67,7 +67,7 @@
     {
       "title": "Night 1: uncover and roast potatoes, 40 min at 200°C",
       "minutes": 40,
-      "text": "Take the lid off and turn the oven up to 200°C fan. Toss the potatoes with the remaining 15 ml oil, 1 tsp caraway and a pinch of salt and paprika, then spread them on a lined tray. Roast the potatoes and the uncovered pork together: pork comes out after 30 min, potatoes need 40 min in total."
+      "text": "Take the lid off and turn the oven up to 200°C fan. Toss the potatoes with the remaining 10 ml oil, 1 tsp caraway and a pinch of salt and paprika, then spread them on a lined tray. Roast the potatoes and the uncovered pork together: pork comes out after 30 min, potatoes need 40 min in total."
     },
     {
       "title": "Night 1: make the slaw",
@@ -82,7 +82,7 @@
     {
       "title": "Night 1: plate",
       "minutes": null,
-      "text": "Matthias: 265 g pork, 400 g potatoes (raw weight, about ¾ of the tray), about 70% of the slaw. Nyuszika: 135 g pork, 150 g potatoes, the rest of the slaw."
+      "text": "Matthias: 265 g pork, 150 g potatoes (half the tray), about 70% of the slaw. Nyuszika: 135 g pork, 150 g potatoes, the rest of the slaw."
     },
     {
       "title": "Night 2: simmer the sauerkraut, 20 min",
@@ -97,8 +97,8 @@
     {
       "title": "Night 2: plate",
       "minutes": null,
-      "text": "Matthias: 265 g pork with about 250 g sauerkraut, topped with 50 g sour cream mixed with 50 g Greek yogurt, and 120 g rye bread. Nyuszika: 135 g pork with about 180 g sauerkraut, 40 g sour cream and 60 g rye bread."
+      "text": "Matthias: 265 g pork with about 250 g sauerkraut, topped with 30 g sour cream mixed with 50 g Greek yogurt, and 70 g rye bread. Nyuszika: 135 g pork with about 180 g sauerkraut, 40 g sour cream and 60 g rye bread."
     }
   ],
-  "notes": "Macros shown are night 1's; the Greek yogurt in the slaw is Matthias's protein bridge. Night 2 (székely-style sauerkraut): Matthias ~1,135 kcal, 93 g protein, 81 g carbs, 45 g fat; Nyuszika ~590 kcal, 45 g protein, 44 g carbs, 24 g fat. Start around 15:30 for dinner around 19:30; night 2 takes about 30 min. Kifli swap: if lapocka is out, use pork neck (tarja) and trim it well — it's fattier."
+  "notes": "Macros shown are night 1's; the Greek yogurt in the slaw is Matthias's protein bridge. Night 2 (székely-style sauerkraut): Matthias ~985 kcal, 89 g protein, 57 g carbs, 42 g fat; Nyuszika ~590 kcal, 45 g protein, 44 g carbs, 24 g fat. Start around 15:30 for dinner around 19:30; night 2 takes about 30 min. Kifli swap: if lapocka is out, use pork neck (tarja) and trim it well — it's fattier."
 }

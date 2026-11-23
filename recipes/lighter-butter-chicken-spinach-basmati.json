@@ -11,9 +11,9 @@
   ],
   "macros": {
     "matthias": {
-      "kcal": 1150,
-      "protein": 113,
-      "carbs": 117,
+      "kcal": 1010,
+      "protein": 110,
+      "carbs": 86,
       "fat": 24
     },
     "partner": {
@@ -32,8 +32,8 @@
     { "name": "Ground cumin", "amount": "1 tsp" },
     { "name": "Chilli flakes", "amount": "0.5 tsp" },
     { "name": "Salt", "amount": "1 tsp" },
-    { "name": "Basmati rice (uncooked)", "amount": "150 g" },
-    { "name": "Water for the rice", "amount": "225 ml" },
+    { "name": "Basmati rice (uncooked)", "amount": "110 g" },
+    { "name": "Water for the rice", "amount": "165 ml" },
     { "name": "Butter", "amount": "15 g" },
     { "name": "Onion, finely chopped", "amount": "1 (~150 g)" },
     { "name": "Fresh ginger, grated", "amount": "15 g" },
@@ -52,7 +52,7 @@
     {
       "title": "Cook the rice, 12 min + 10 min rest",
       "minutes": 22,
-      "text": "Rinse the basmati until the water runs clear. Bring to the boil with the 225 ml water and a pinch of salt, then cover and simmer on the lowest heat 12 min. Take off the heat and leave covered 10 min."
+      "text": "Rinse the basmati until the water runs clear. Bring to the boil with the 165 ml water and a pinch of salt, then cover and simmer on the lowest heat 12 min. Take off the heat and leave covered 10 min."
     },
     {
       "title": "Sear the chicken, 5–6 min",
@@ -72,7 +72,7 @@
     {
       "title": "Plate",
       "minutes": null,
-      "text": "Matthias: about two-thirds of the curry (around 370 g raw chicken) and 300 g cooked rice (⅔ of the pot). Nyuszika: the remaining third (around 180 g chicken) and 150 g cooked rice."
+      "text": "Matthias: about two-thirds of the curry (around 370 g raw chicken) and 180 g cooked rice (a little over half the pot). Nyuszika: the remaining third (around 180 g chicken) and 150 g cooked rice."
     }
   ],
   "notes": "No protein bridge needed. Garlic-free. Frozen leaf spinach works if baby spinach is out on Kifli."
