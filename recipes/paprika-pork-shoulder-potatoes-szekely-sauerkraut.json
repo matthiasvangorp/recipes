@@ -2,7 +2,7 @@
   "title": "Slow-Roasted Paprika Pork Shoulder — Crispy Potatoes on Night 1, Székely-Style Sauerkraut on Night 2",
   "description": "One slow oven roast, two dinners: paprika and caraway pork shoulder braised on onions for 3 hours, served with crispy potatoes and apple slaw on night 1, then pulled and simmered with sauerkraut, sour cream and rye bread on night 2. Garlic-free.",
   "planned": "2026-11-23",
-  "cooked": null,
+  "cooked": "2026-11-24",
   "totalMinutes": 235,
   "tags": [
     "pork",
@@ -25,28 +25,94 @@
     }
   },
   "ingredients": [
-    { "name": "Boneless pork shoulder (sertés lapocka)", "amount": "1300 g" },
-    { "name": "Sweet paprika", "amount": "1 tbsp + 1 tsp" },
-    { "name": "Smoked paprika", "amount": "1 tsp" },
-    { "name": "Caraway seeds, lightly crushed", "amount": "3.5 tsp" },
-    { "name": "Dried marjoram", "amount": "1 tsp" },
-    { "name": "Salt", "amount": "2 tsp + extra" },
-    { "name": "Black pepper", "amount": "1 tsp" },
-    { "name": "Sunflower oil", "amount": "25 ml" },
-    { "name": "Large onions, thickly sliced", "amount": "3 (~450 g)" },
-    { "name": "Tomato paste", "amount": "1 tbsp" },
-    { "name": "Chicken stock", "amount": "250 ml" },
-    { "name": "Night 1 — waxy potatoes, 3 cm chunks", "amount": "300 g" },
-    { "name": "Night 1 — red cabbage, finely shredded", "amount": "200 g" },
-    { "name": "Night 1 — apple, cut into matchsticks", "amount": "1 (~100 g)" },
-    { "name": "Night 1 — Greek yogurt 2%", "amount": "140 g" },
-    { "name": "Night 1 — mustard", "amount": "1 tsp" },
-    { "name": "Night 1 — lemon juice", "amount": "1 tbsp" },
-    { "name": "Night 2 — sauerkraut (savanyú káposzta), drained", "amount": "450 g" },
-    { "name": "Night 2 — water", "amount": "150 ml" },
-    { "name": "Night 2 — sour cream 12%", "amount": "70 g" },
-    { "name": "Night 2 — Greek yogurt 2% (Matthias)", "amount": "50 g" },
-    { "name": "Night 2 — rye bread", "amount": "130 g" }
+    {
+      "name": "Boneless pork shoulder (sertés lapocka)",
+      "amount": "1300 g"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "1 tbsp + 1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Caraway seeds, lightly crushed",
+      "amount": "3.5 tsp"
+    },
+    {
+      "name": "Dried marjoram",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp + extra"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "25 ml"
+    },
+    {
+      "name": "Large onions, thickly sliced",
+      "amount": "3 (~450 g)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Night 1 — waxy potatoes, 3 cm chunks",
+      "amount": "300 g"
+    },
+    {
+      "name": "Night 1 — red cabbage, finely shredded",
+      "amount": "200 g"
+    },
+    {
+      "name": "Night 1 — apple, cut into matchsticks",
+      "amount": "1 (~100 g)"
+    },
+    {
+      "name": "Night 1 — Greek yogurt 2%",
+      "amount": "140 g"
+    },
+    {
+      "name": "Night 1 — mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Night 1 — lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Night 2 — sauerkraut (savanyú káposzta), drained",
+      "amount": "450 g"
+    },
+    {
+      "name": "Night 2 — water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Night 2 — sour cream 12%",
+      "amount": "70 g"
+    },
+    {
+      "name": "Night 2 — Greek yogurt 2% (Matthias)",
+      "amount": "50 g"
+    },
+    {
+      "name": "Night 2 — rye bread",
+      "amount": "130 g"
+    }
   ],
   "steps": [
     {
