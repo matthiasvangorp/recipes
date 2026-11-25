@@ -2,7 +2,7 @@
   "title": "Lighter Butter Chicken with Spinach & Basmati",
   "description": "A warming yogurt-marinated chicken curry with just 15 g of butter, a splash of cooking cream and a big handful of spinach, over basmati. Garlic-free — ginger does the work.",
   "planned": "2026-11-23",
-  "cooked": null,
+  "cooked": "2026-11-25",
   "totalMinutes": 45,
   "tags": [
     "chicken",
@@ -24,24 +24,78 @@
     }
   },
   "ingredients": [
-    { "name": "Chicken breast, 3 cm pieces", "amount": "550 g" },
-    { "name": "Greek yogurt 2%", "amount": "150 g" },
-    { "name": "Garam masala", "amount": "3 tsp" },
-    { "name": "Sweet paprika", "amount": "1 tsp" },
-    { "name": "Ground turmeric", "amount": "0.5 tsp" },
-    { "name": "Ground cumin", "amount": "1 tsp" },
-    { "name": "Chilli flakes", "amount": "0.5 tsp" },
-    { "name": "Salt", "amount": "1 tsp" },
-    { "name": "Basmati rice (uncooked)", "amount": "110 g" },
-    { "name": "Water for the rice", "amount": "165 ml" },
-    { "name": "Butter", "amount": "15 g" },
-    { "name": "Onion, finely chopped", "amount": "1 (~150 g)" },
-    { "name": "Fresh ginger, grated", "amount": "15 g" },
-    { "name": "Tomato paste", "amount": "1 tbsp" },
-    { "name": "Tomato passata", "amount": "400 g" },
-    { "name": "Cooking cream 10% (főzőtejszín)", "amount": "100 ml" },
-    { "name": "Baby spinach", "amount": "200 g" },
-    { "name": "Dried fenugreek leaves (kasuri methi, optional)", "amount": "1 tsp" }
+    {
+      "name": "Chicken breast, 3 cm pieces",
+      "amount": "550 g"
+    },
+    {
+      "name": "Greek yogurt 2%",
+      "amount": "150 g"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Basmati rice (uncooked)",
+      "amount": "110 g"
+    },
+    {
+      "name": "Water for the rice",
+      "amount": "165 ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 (~150 g)"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "15 g"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tomato passata",
+      "amount": "400 g"
+    },
+    {
+      "name": "Cooking cream 10% (főzőtejszín)",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "200 g"
+    },
+    {
+      "name": "Dried fenugreek leaves (kasuri methi, optional)",
+      "amount": "1 tsp"
+    }
   ],
   "steps": [
     {
